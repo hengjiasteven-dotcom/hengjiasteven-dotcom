@@ -37,8 +37,8 @@
 ## Connect
 
 - Blog: https://xiaodaidai.site
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- Bilibili: https://space.bilibili.com/YOUR_ID
+- GitHub: https://github.com/hengjiasteven-dotcom
+- Bilibili: https://space.bilibili.com/1067868117
 
 ---
 
