@@ -2,7 +2,7 @@
 
 > 星凝眉上字，潮敛贝中音。
 
-![Pixel Snake](pixel-snake.svg)
+![Pixel Snake](pixel-snake.gif)
 
 [Play Pixel Snake](snake-game.html)
 
@@ -12,7 +12,7 @@
 - 主站：`xiaodaidai.site`
 - 关注：前后端开发、Hexo/Astro 站点建设、3D 世界、实用工具
 - 常写内容：游戏赏析、AI 写作、博客维护、文学随笔、日常观察
-- 也喜欢有美术和叙事质感的东西
+- 也喜欢把喜欢的作品拆开看，比如《鸣潮》《光与影：33号远征队》这类有美术和叙事质感的东西
 
 ## My Build
 
@@ -36,8 +36,8 @@
 
 - Blog: https://xiaodaidai.site
 - GitHub: https://github.com/hengjiasteven-dotcom
-- Bilibili: https://space.bilibili.com/1067868117
+- Bilibili: https://space.bilibili.com/YOUR_ID
 
 ---
 
-> 雪落时，眉睫上的银河凝固成你名字的星子；潮汐退去，贝壳深处还响着你未说出口的黎明。
+> 今日も、少しずつ前へ。
