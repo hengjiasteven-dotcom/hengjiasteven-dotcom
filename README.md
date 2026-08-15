@@ -4,7 +4,7 @@
 
 ![Pixel Snake](pixel-snake.gif)
 
-[Play Pixel Snake](snake-game.html)
+[Pixel Snake Preview](pixel-snake.gif)
 
 ## About Me
 
