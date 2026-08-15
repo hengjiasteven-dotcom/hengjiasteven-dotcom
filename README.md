@@ -36,8 +36,9 @@
 
 - Blog: https://xiaodaidai.site
 - GitHub: https://github.com/hengjiasteven-dotcom
-- Bilibili: https://space.bilibili.com/YOUR_ID
+- Bilibili: https://space.bilibili.com/1067868117
 
 ---
 
 > 今日も、少しずつ前へ。
+
