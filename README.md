@@ -10,6 +10,12 @@
 - 常写内容：游戏赏析、AI 写作、博客维护、文学随笔、日常观察
 - 也喜欢把喜欢的作品拆开看，比如《鸣潮》《光与影：33号远征队》这类有美术和叙事质感的东西
 
+## Pixel Snake
+
+[Play Pixel Snake](snake-game.html)
+
+![Pixel Snake](pixel-snake.svg)
+
 ## My Build
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,10 +48,4 @@
 
 ---
 
-## Mini Game
-
-[Play Pixel Snake](snake-game.html)
-
-> 如果你把这个仓库开成 GitHub Pages，这里也可以换成正式链接。
-
-> 今日も、少しずつ前へ。
+>雪落时，眉睫上的银河凝固成你名字的星子；潮汐退去，贝壳深处还响着你未说出口的黎明 。
