@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm 小呆呆
 
-<!--
-**hengjiasteven-dotcom/hengjiasteven-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 星凝眉上字，潮敛贝中音。
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 记录技术，也记录生活和审美
+- 主站：`xiaodaidai.site`
+- 关注：前后端开发、Hexo/Astro 站点建设、3D 世界、实用工具
+- 常写内容：游戏赏析、AI 写作、博客维护、文学随笔、日常观察
+- 也喜欢把喜欢的作品拆开看，比如《鸣潮》《光与影：33号远征队》这类有美术和叙事质感的东西
+
+## My Build
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Featured Works
+
+| Project | Vibe | Tech |
+| --- | --- | --- |
+| Dream Fluid Blog | 个人博客主站，记录技术与生活 | Astro, React |
+| 3D World | 从空白平面到可交互场景的站点实验 | WebGL / Three.js |
+| Utility Tools | 站内实用工具与功能页 | JavaScript |
+| Writing Notes | AI 写作、Markdown、随笔和评测 | Hexo / Markdown |
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true)
+
+## Connect
+
+- Blog: https://xiaodaidai.site
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- Bilibili: https://space.bilibili.com/YOUR_ID
+
+---
+
+## Mini Game
+
+[Play Pixel Snake](snake-game.html)
+
+> 如果你把这个仓库开成 GitHub Pages，这里也可以换成正式链接。
+
+> 今日も、少しずつ前へ。
