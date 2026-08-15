@@ -2,19 +2,17 @@
 
 > 星凝眉上字，潮敛贝中音。
 
+![Pixel Snake](pixel-snake.svg)
+
+[Play Pixel Snake](snake-game.html)
+
 ## About Me
 
 - 记录技术，也记录生活和审美
 - 主站：`xiaodaidai.site`
 - 关注：前后端开发、Hexo/Astro 站点建设、3D 世界、实用工具
 - 常写内容：游戏赏析、AI 写作、博客维护、文学随笔、日常观察
-- 也喜欢把喜欢的作品拆开看，比如《鸣潮》《光与影：33号远征队》这类有美术和叙事质感的东西
-
-## Pixel Snake
-
-[Play Pixel Snake](snake-game.html)
-
-![Pixel Snake](pixel-snake.svg)
+- 也喜欢有美术和叙事质感的东西
 
 ## My Build
 
@@ -34,12 +32,6 @@
 | Utility Tools | 站内实用工具与功能页 | JavaScript |
 | Writing Notes | AI 写作、Markdown、随笔和评测 | Hexo / Markdown |
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hengjiasteven-dotcom&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengjiasteven-dotcom&layout=compact&theme=transparent&hide_border=true)
-
 ## Connect
 
 - Blog: https://xiaodaidai.site
@@ -48,4 +40,4 @@
 
 ---
 
->雪落时，眉睫上的银河凝固成你名字的星子；潮汐退去，贝壳深处还响着你未说出口的黎明 。
+> 雪落时，眉睫上的银河凝固成你名字的星子；潮汐退去，贝壳深处还响着你未说出口的黎明。
